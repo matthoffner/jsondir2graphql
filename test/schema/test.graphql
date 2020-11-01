@@ -1,0 +1,6 @@
+type Bar {
+  bar: String
+}
+type Foo {
+  foo: String
+}

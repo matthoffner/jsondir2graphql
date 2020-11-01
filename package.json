@@ -1,0 +1,16 @@
+{
+  "name": "jsondir2graphql",
+  "version": "1.0.0",
+  "bin": "src/index.js",
+  "type": "module",
+  "description": "Simple script for generating graphql from json ",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@walmartlabs/json-to-simple-graphql-schema": "^2.0.3"
+  },
+  "author": "Matt Hoffner",
+  "license": "ISC"
+}
