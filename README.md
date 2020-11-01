@@ -30,6 +30,8 @@ bar.json
 
 #### Output
 
+schema.graphql
+
 ```js
 type Foo {
   foo: String
